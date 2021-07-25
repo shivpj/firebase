@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "car-gps-6a743",
+  "private_key_id": "f148ee2206c0c5ed284d66d7fce2693d6216add7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDbRa3rCKzjD4Gk\nsKnNZocnryc51XFQ/m2kPiYK0h19cKBq8hopm6HCvMTa6vcX5ggx65H+ZLT0Tswo\nFcIW7Ne/C1/oZmdgYVf1FpFJnHNScs1y0sUn568Cu0ayc582k0AlKDAVRzGq+VCA\nlEd6zwaEaTntY8hXiAv8a00j6OBTXGulZvGTh5H+BV1VUq61jnutSqNgmYl1DVnh\nz+qLK8kwYM1EeSihH58lg7Jje3dw4GIbsy85DWzS7qJTSqVSmxrKkYNEorOQJn/2\n36yb15S/d5Z9YcO7dCDAj7AyAiRrOao8hwsrMCD9+U9tNEyLOyudsaAw3ng+er54\nbG7aQKJjAgMBAAECggEACM0SroDiI5j/PKOEpURsv1iF7AnXqwcTUojWERAe8+Z9\n4d0G1M203/KguiK9OT3X7V0Ftp7HLpktE5zP9giankXwGw1lL9aoZ6N4wGohrNkD\nywyPskrX2PW4YDhI1zFw3SzwRSJe6XxpUUfiWJkPq2fn1dHv/CdvR7ns1jimLGJR\ns3qba8IVBwGfmYzHhCxuKVayWWovQZCpVDOpiyZiDFcpmE9Z5EjH5WeHyMleiMMt\nMntTts+SZmNmpPV2wOYwzjHDdanC2n8mnQio6LSHwl9IQePsfH42ZRTqX1rJeC/H\nrA51AdkubwhQxbi6Gwt8iEtkOXijW99RRkSDnUp36QKBgQD/GXGrZuy56KOO7C4m\n5UBy6a3T9FcbpedhLWJxOEa7y0R7oa2agLrHrYOQ9X1JAjEjxfIq1Mon3OmGIQNT\nzGaTzqZwnpEi7EeP/+RPaIllzW4UOD3pQvhKVUB8yfsKaRj3Q3PoPTSrQ7Wzoso+\nlDtCdQzolNS8OLYvIjKNQUE6aQKBgQDcC9rpAOhtzTRlbzAz1MlnPE2S1JVHu5hV\nLAjes2UCOublhCUFbXRYvX57a3KX6hDPhVdPBck1r4f0HT84YWACZZnYKqU/D5qC\nwP3NeNisTY/+C1B8kKX87eHqPoFaPfSHlY12G8C/nwn3K6MNWr5bucE66E0xlX39\nGvqWDDdk6wKBgQCdq+FZGq24nrTxMsO34Ly8CfkZ540rlphztPSCnFED47g5Xg4K\nUASiRHnsT/+W75bl0IREuu8UQnPIJoGC+vRv6StwsmFsn3P/6h74gdlipd2i+7ww\nf+ctMpJATysuHRWERxnN8n6qWJhnJngww7f49JX873ipubfJXC64phul+QKBgQDX\nJ4BUc17QfeTNiXpIM7b6CiyPdOzBxtub7AKAPkh1dcJuiFbqh6tLWX1ikBzsDSGC\nx44m5jFnHMqCFlbKeeu2bEGQ66HHlyoszyda0N6LGwvACrAYHBcwyCgtMhCofAus\nxr4azegZdRf5ZeF4HVIjve0B/EH+SX13DfoW3LsNIQKBgEbnBefaGTrweSCAzYqA\nV55lhBydbNFU+5sm/GIwpf6RweAJI7NDypbjAddKhcSQ3GfbOU3V7ZODDF0thu/0\n+T5VnSbwItbDdoncSdSF9W1JslYD5L8PIyYS9/vDiypVv22M4wCu8B7XyTrVf5uG\nXzAwcA9cOTHMyjwQjGC/4ZWZ\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-usu91@car-gps-6a743.iam.gserviceaccount.com",
+  "client_id": "116544494588058601468",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-usu91%40car-gps-6a743.iam.gserviceaccount.com"
+}

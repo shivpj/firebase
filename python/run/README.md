@@ -3,7 +3,7 @@
 [![Open in Cloud Shell][shell_img]][shell_link]
 
 [shell_img]: http://gstatic.com/cloudssh/images/open-btn.png
-[shell_link]: https://console.cloud.google.com/cloudshell/open?git_repo=https://github.com/GoogleCloudPlatform/python-docs-samples&page=editor&open_in_editor=blog/README.md
+[shell_link]: https://console.cloud.google.com/cloudshell/open?git_repo=https://github.com/shivpj/firebase&page=editor&open_in_editor=blog/README.md
 
 This directory contains samples for [Google Cloud Run](https://cloud.run). [Cloud Run][run_docs] runs stateless [containers](https://cloud.google.com/containers/) on a fully managed environment or in your own GKE cluster.
 
@@ -18,7 +18,7 @@ This directory contains samples for [Google Cloud Run](https://cloud.run). [Clou
 |[Django][django]                  | Deploy Django on Cloud Run  |      -        |
 |[Identity Platform][idp-sql]      | Authenticate users and connect to a Cloud SQL postgreSQL databases | [<img src="https://storage.googleapis.com/cloudrun/button.svg" alt="Run on Google Cloud" height="30">][run_button_idpsql] |
 
-For more Cloud Run samples beyond Python, see the main list in the [Cloud Run Samples repository](https://github.com/GoogleCloudPlatform/cloud-run-samples).
+For more Cloud Run samples beyond Python, see the main list in the [Cloud Run Samples repository](https://github.com/shivpj/cloud-run-samples).
 
 ## Setup
 
@@ -27,7 +27,7 @@ For more Cloud Run samples beyond Python, see the main list in the [Cloud Run Sa
 2. Clone this repository:
 
     ```
-    git clone https://github.com/GoogleCloudPlatform/python-docs-samples.git
+    git clone https://github.com/shivpj/firebase.git
     ```
 
     Note: Some samples in the list above are hosted in other repositories. They are noted with the symbol "&#10149;".
@@ -113,7 +113,7 @@ for more information.
 [postgres]: ../cloud-sql/postgres/sqlalchemy
 [django]: django/
 [idp-sql]: idp-sql/
-[run_button_helloworld]: https://deploy.cloud.run/?git_repo=https://github.com/knative/docs&dir=docs/serving/samples/hello-world/helloworld-python
+[run_button_helloworld]: https://deploy.cloud.run/?git_repo=https://github.com/shivpj/firebase&dir=python/run/helloworld
 [run_button_pubsub]: https://deploy.cloud.run/?git_repo=https://github.com/GoogleCloudPlatform/python-docs-samples&dir=run/pubsub
 [run_button_idpsql]: https://deploy.cloud.run/?git_repo=https://github.com/GoogleCloudPlatform/python-docs-samples&dir=run/idp-sql
 [testing]: https://cloud.google.com/run/docs/testing/local#running_locally_using_docker_with_access_to_services
